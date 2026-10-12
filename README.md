@@ -1,5 +1,3 @@
-# Modern-Data-Warehouse-Project-SQL-Server
-
 # 🏗️ Modern Data Warehouse Project | SQL Server
 
 ## 📌 Project Overview
